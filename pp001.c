@@ -8,4 +8,4 @@ main()
 	else
 	printf("entered number %d is even",n);
 
-}
+
